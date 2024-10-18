@@ -1,0 +1,17 @@
+[33mcommit bfbe60e61864ba73473a619ec153ba1697dd4974[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/rps-ui[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mrps-ui[m[33m)[m
+Author: RichardO <ombrog512@gmail.com>
+Date:   Sat Oct 5 19:39:08 2024 +0800
+
+    use a helper function or function inside function
+
+[33mcommit 824afccff42d3c0f35a3bb27bd3c03d991678a0f[m
+Author: RichardO <ombrog512@gmail.com>
+Date:   Sat Oct 5 18:50:37 2024 +0800
+
+    Add js code
+
+[33mcommit 5978dc453f72fc6dcd4a3550b2fd5520d636e1a2[m
+Author: RichardO <87283051+RichardO512@users.noreply.github.com>
+Date:   Thu Oct 3 14:55:20 2024 +0800
+
+    Add index.html and script.js
